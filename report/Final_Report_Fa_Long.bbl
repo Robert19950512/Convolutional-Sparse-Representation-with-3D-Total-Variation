@@ -1,0 +1,59 @@
+\begin{thebibliography}{1}
+
+\bibitem{DBLP:journals/corr/MairalBP14}
+Julien Mairal, Francis~R. Bach, and Jean Ponce,
+\newblock ``Sparse modeling for image and vision processing,''
+\newblock {\em CoRR}, vol. abs/1411.3230, 2014.
+
+\bibitem{4011956}
+M.~Elad and M.~Aharon,
+\newblock ``Image denoising via sparse and redundant representations over
+  learned dictionaries,''
+\newblock {\em IEEE Transactions on Image Processing}, vol. 15, no. 12, pp.
+  3736--3745, Dec 2006.
+
+\bibitem{1640847}
+M.~Elad and M.~Aharon,
+\newblock ``Image denoising via learned dictionaries and sparse
+  representation,''
+\newblock in {\em 2006 IEEE Computer Society Conference on Computer Vision and
+  Pattern Recognition (CVPR'06)}, June 2006, vol.~1, pp. 895--900.
+
+\bibitem{7308045}
+B.~Wohlberg,
+\newblock ``Efficient algorithms for convolutional sparse representations,''
+\newblock {\em IEEE Transactions on Image Processing}, vol. 25, no. 1, pp.
+  301--315, Jan 2016.
+
+\bibitem{sporco}
+Brendt Wohlberg,
+\newblock ``Sporco: A python package for standard and convolutional sparse
+  representations,''
+\newblock pp. 1--8, 01 2017.
+
+\bibitem{EGIDI2006703}
+N.~Egidi and P.~Maponi,
+\newblock ``A sherman--morrison approach to the solution of linear systems,''
+\newblock {\em Journal of Computational and Applied Mathematics}, vol. 189, no.
+  1, pp. 703 -- 718, 2006,
+\newblock Proceedings of The 11th International Congress on Computational and
+  Applied Mathematics.
+
+\bibitem{Blomgren:1998:CTT:2318958.2319497}
+P.~Blomgren and T.~F. Chan,
+\newblock ``Color tv: Total variation methods for restoration of vector-valued
+  images,''
+\newblock {\em Trans. Img. Proc.}, vol. 7, no. 3, pp. 304--309, Mar. 1998.
+
+\bibitem{DBLP:journals/corr/Wohlberg17a}
+Brendt Wohlberg,
+\newblock ``Convolutional sparse representations with gradient penalties,''
+\newblock {\em CoRR}, vol. abs/1705.04407, 2017.
+
+\bibitem{7532675}
+B.~Wohlberg,
+\newblock ``Boundary handling for convolutional sparse representations,''
+\newblock in {\em 2016 IEEE International Conference on Image Processing
+  (ICIP)}, Sept 2016, pp. 1833--1837.
+
+\end{thebibliography}
